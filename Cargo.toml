@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+  "torana-common",
   "torana-frontend",
   # "torana-backend"
 ]
